@@ -1,0 +1,68 @@
+/* Write your CSS here */
+.registration-details-container {
+  padding: 20px;
+  width: 45%;
+  height: 100vh;
+}
+.no-active {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-top: 30px;
+  color: #64748b;
+  font-weight: bold;
+  text-align: center;
+}
+.view-container {
+  padding: 40px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.yet-to-register-img {
+  width: 80%;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #64748b;
+}
+.register-btn {
+  border-style: none;
+  background-color: #0967d2;
+  padding: 10px;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-radius: 6px;
+  width: 250px;
+  margin-top: 20px;
+}
+.registered-img {
+  width: 30%;
+}
+.para1 {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #323f4b;
+  font-weight: bold;
+  text-align: center;
+}
+.registration-closed-img {
+  width: 70%;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #323f4b;
+  text-align: center;
+  margin-top: 20px;
+}
+.para2 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+  text-align: center;
+}

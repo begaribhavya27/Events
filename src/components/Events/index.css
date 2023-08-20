@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  align-items: flex-start;
+  padding: 0px;
+  height: 100vh;
+}
+
+.events-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  background-color: #475569;
+  min-height: 100vh;
+  padding: 20px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 25px;
+  margin-left: 48px;
+  margin-bottom: 20px;
+}
+.events {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}

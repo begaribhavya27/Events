@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.event-bg {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 10px;
+}
+.img-btn {
+  background: transparent;
+  border: none;
+  padding: 0px;
+  outline: none;
+  cursor: pointer;
+}
+.event-img {
+  width: 100%;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  max-width: 460px;
+  padding: 0px;
+  margin: 0px;
+}
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
+.name {
+  color: #f8fafc;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 37px;
+  margin-top: 6px;
+  margin-bottom: 4px;
+}
+.location {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-left: 37px;
+  margin-top: 0px;
+}
